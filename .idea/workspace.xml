@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a17c29c4-c50d-4880-865d-ca9972e50ca1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAula02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/basecamp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/basecamp/Quadrilatero.java" afterDir="false" />
+    <list default="true" id="a17c29c4-c50d-4880-865d-ca9972e50ca1" name="Changes" comment="Método com sobrecargas (Área dos Quadriláteros)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +33,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/dev/projetos/trilha-java-basico/MAula02"
   }
 }]]></component>
   <component name="RunManager">
@@ -74,6 +66,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667492674512</updated>
     </task>
+    <task id="LOCAL-00001" summary="Método com sobrecargas (Área dos Quadriláteros)">
+      <created>1667494151776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667494151776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Método com sobrecargas (Área dos Quadriláteros)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Método com sobrecargas (Área dos Quadriláteros)" />
   </component>
 </project>
